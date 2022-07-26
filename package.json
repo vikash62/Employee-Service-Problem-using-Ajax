@@ -1,0 +1,19 @@
+{
+  "name": "employee-service-problem-using-ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AjaxCallback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikash62/Employee-Service-Problem-using-Ajax.git"
+  },
+  "author": "Vikash pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikash62/Employee-Service-Problem-using-Ajax/issues"
+  },
+  "homepage": "https://github.com/vikash62/Employee-Service-Problem-using-Ajax#readme"
+}
