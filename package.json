@@ -1,5 +1,5 @@
 {
-  "name": "employee-service-problem-using-ajax",
+  "name": "day47-employee-service-problem-using-ajax",
   "version": "1.0.0",
   "description": "",
   "main": "AjaxCallback.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vikash62/Employee-Service-Problem-using-Ajax.git"
+    "url": "git+https://github.com/Krunali29/Day47-Employee-Service-Problem-using-Ajax.git"
   },
-  "author": "Vikash pathak",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vikash62/Employee-Service-Problem-using-Ajax/issues"
+    "url": "https://github.com/Krunali29/Day47-Employee-Service-Problem-using-Ajax/issues"
   },
-  "homepage": "https://github.com/vikash62/Employee-Service-Problem-using-Ajax#readme"
+  "homepage": "https://github.com/Krunali29/Day47-Employee-Service-Problem-using-Ajax#readme"
 }
